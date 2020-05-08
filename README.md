@@ -1,7 +1,7 @@
 # awesome-language-framework
 Resource and list library for various programming language and mobile framework
 
-Programming language ေတြ mobile framework ေတြ တခုခ်င္းဆီရဲ. library ေတြ resources ေတြကိုရွာစုထားတာ။
+Programming language တွေ mobile framework တွေ တခုချင်းဆီရဲ. library တွေ resources တွေကိုရှာစုထားတာ။
 
 Java
 https://github.com/akullpp/awesome-java
@@ -57,3 +57,6 @@ https://github.com/hsavit1/Awesome-Swift-Education
 
 Elixir
 https://github.com/h4cc/awesome-elixir
+
+Dart
+https://github.com/yissachar/awesome-dart
